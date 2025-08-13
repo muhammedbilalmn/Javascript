@@ -5,3 +5,5 @@
 7*4
 5/10
 // etc.....
+// to round the numbers we use the round function
+Math.round(2.3)     
